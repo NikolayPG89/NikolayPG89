@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikolay</h1>
+<h3 align="center">Aspiring Junior JavaScript Developer</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=JavaScript+Developer;Frontend+Enthusiast;WooCommerce+Builder" />
+</p>
+---
 
-<!--
-**NikolayPG89/NikolayPG89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 Built and maintain an e-commerce store (WordPress + WooCommerce)
+- 📚 Completed JavaScript Basic course
+- 🔥 Currently learning advanced JavaScript & Git
+- 🎯 Looking for Junior Frontend Developer position
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,html,css,wordpress,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NikolayPG89&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayPG89&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Projects Coming Soon
+- 📝 To-Do App
+- 🧮 Calculator
+- 🌦 Weather App (API)
+- 🛒 Mini E-commerce App
+- ⚙ WooCommerce Custom Scripts
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/NikolayPG89
