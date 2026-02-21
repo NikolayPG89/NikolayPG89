@@ -20,15 +20,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolayPG89&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayPG89&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+### 📈 Current Focus
+- Building WooCommerce automation tools
+- Improving JavaScript architecture
+- Learning advanced Git workflows
 
 ---
 
